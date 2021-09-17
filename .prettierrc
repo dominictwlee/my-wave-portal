@@ -1,0 +1,17 @@
+{
+  "semi": true,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "overrides": [
+    {
+      "files": "*.sol",
+      "options": {
+        "tabWidth": 4,
+        "useTabs": false,
+        "singleQuote": false,
+        "bracketSpacing": false,
+        "explicitTypes": "never"
+      }
+    }
+  ]
+}
